@@ -1,0 +1,25 @@
+Drill report for STK3700_Expansion_board.kicad_pcb
+Created on 05/10/2022 11:56:40
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'STK3700_Expansion_board-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.700mm  0.0276"  (7 holes)
+    T2  1.000mm  0.0394"  (5 holes)
+    T3  1.000mm  0.0394"  (22 holes)
+    T4  1.100mm  0.0433"  (4 holes)
+
+    Total plated holes count 38
+
+
+Drill file 'STK3700_Expansion_board-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
