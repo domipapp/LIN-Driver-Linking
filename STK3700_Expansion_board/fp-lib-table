@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "STK3700_Expansion_board")(type "KiCad")(uri "${KIPRJMOD}/STK3700_Expansion_board.pretty")(options "")(descr ""))
-)
